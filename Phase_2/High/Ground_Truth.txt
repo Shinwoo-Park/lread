@@ -1,0 +1,12 @@
+4340F - Human 
+9304Z - Human
+3307G - GPT-4o 
+8470I - GPT-4o 
+2987C - Solar 
+7712G - Solar  
+2801R - Qwen2
+6685L - Qwen2 
+6069Y - Llama3.1 
+6730N - Llama3.1
+
+

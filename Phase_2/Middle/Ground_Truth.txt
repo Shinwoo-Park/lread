@@ -1,0 +1,10 @@
+4928W - Human 
+5748W - Human 
+1859T - GPT-4o 
+2014D - GPT-4o 
+5913U - Solar 
+7351E - Solar 
+8118I - Qwen2 
+9308W - Qwen2 
+5048W - Llama3.1 
+8922M - Llama3.1 

@@ -1,0 +1,12 @@
+1808Z - Human 
+2477D - Human 
+3579D - GPT-4o 
+8294F - GPT-4o 
+1639E - Solar 
+3482T - Solar 
+5122C - Qwen2 
+8810R - Qwen2 
+1636W - Llama3.1 
+4468U - Llama3.1
+
+

@@ -1,0 +1,10 @@
+7398I - Human 
+8381K - Human
+4729B - GPT-4o 
+5115N - GPT-4o  
+2555G - Solar 
+8441Q - Solar 
+1046I - Qwen2 
+4181T - Qwen2
+3381G - Llama3.1
+5267W - Llama3.1 
