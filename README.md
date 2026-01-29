@@ -187,6 +187,14 @@ The complete rubric is released in both languages:
 
 ## Citation
 
-```bibtex
-
+```text
+@misc{park2026intuitionexpertiserubricbasedcognitive,
+      title={From Intuition to Expertise: Rubric-Based Cognitive Calibration for Human Detection of LLM-Generated Korean Text}, 
+      author={Shinwoo Park and Yo-Sub Han},
+      year={2026},
+      eprint={2601.19913},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.19913}, 
+}
 ```
