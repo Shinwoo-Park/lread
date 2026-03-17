@@ -188,7 +188,7 @@ The complete rubric is released in both languages:
 ## Citation
 
 ```text
-@misc{park2026intuitionexpertiserubricbasedcognitive,
+@misc{park2026intuitioncalibratedjudgmentrubricbased,
       title={From Intuition to Calibrated Judgment: A Rubric-Based Expert-Panel Study of Human Detection of LLM-Generated Korean Text}, 
       author={Shinwoo Park and Yo-Sub Han},
       year={2026},
