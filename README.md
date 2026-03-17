@@ -57,7 +57,7 @@ LREAD is operationalized through a **three-phase longitudinal calibration protoc
 </p>
 
 **Figure 1. Detection accuracy across phases.**  
-Detection accuracy for individual human annotators, the human majority vote, and a zero-shot LLM-detector majority baseline across the three experimental phases.  
+Detection accuracy for individual human annotators and the human majority vote across the three experimental phases, together with a dashed reference line indicating the Phase 1 zero-shot LLM-detector majority baseline. 
 Phase 1 shows substantial inter-annotator variance, reflecting reliance on heterogeneous intuition under blind judgment.  
 Phase 2 shows strong improvement after rubric introduction, indicating that performance gains arise from criterion-anchored analysis rather than from repeated exposure alone.  
 Phase 3 provides encouraging small-set evidence of successful internalized application on a limited held-out elementary-persona subset.
@@ -75,7 +75,7 @@ Phase 3 provides encouraging small-set evidence of successful internalized appli
 | LLMs | GPT-5.2 Thinking | 96.67 |
 |  | Gemini 3 Flash | 96.67 |
 |  | Claude Sonnet 4.5 | 90.00 |
-|  | **LLMs Majority Vote** | **96.67** |
+|  | **LLM Reviewers Majority Vote** | **96.67** |
 
 **Table 1.** Detection accuracy under intuition-only evaluation (Phase 1).  
 Human annotators exhibit substantial variance and a relatively weak majority-vote baseline, indicating that linguistically informed intuition alone is insufficiently stable for reliable attribution.  
