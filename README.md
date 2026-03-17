@@ -2,7 +2,7 @@
 # From Intuition to Calibrated Judgment: A Rubric-Based Expert-Panel Study of Human Detection of LLM-Generated Korean Text
 
 This repository releases the **Phase 1–3 evaluation datasets** and the **LREAD rubric** introduced in the paper  
-*From Intuition to Expertise: Rubric-Based Cognitive Calibration for Human Detection of LLM-Generated Korean Text*.
+*From Intuition to Calibrated Judgment: A Rubric-Based Expert-Panel Study of Human Detection of LLM-Generated Korean Text*.
 
 The released resources support the empirical investigation of **human-authored vs. LLM-generated Korean text detection by human experts** as a **structured, explicit, and learnable cognitive process**, rather than as an innate or purely intuitive skill.
 
