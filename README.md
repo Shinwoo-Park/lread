@@ -83,7 +83,7 @@ By contrast, zero-shot LLM reviewers achieve high apparent accuracy on the same 
 
 ---
 
-### Table 4. Inter-Annotator Agreement Across Phases (Human Annotators)
+### Table 2. Inter-Annotator Agreement Across Phases (Human Annotators)
 
 | Phase | Fleiss’ κ |
 |------|-----------|
@@ -91,10 +91,10 @@ By contrast, zero-shot LLM reviewers achieve high apparent accuracy on the same 
 | Phase 2 | 0.24 |
 | Phase 3 | 0.82 |
 
-**Table 4.** Inter-annotator agreement measured using Fleiss’ κ among human annotators across phases.  
+**Table 2.** Inter-annotator agreement measured using Fleiss’ κ among human annotators across phases.  
 Agreement is near chance in Phase 1, reflecting weakly aligned intuitive criteria.  
 Rubric-guided calibration improves agreement in Phase 2, while Phase 3 shows strong agreement on the limited held-out subset.  
-Taken together, Figure 1, Table 1, and Table 4 suggest that rubric-based calibration improves both attribution accuracy and panel-level reliability.
+Taken together, Figure 1, Table 1, and Table 2 suggest that rubric-based calibration improves both attribution accuracy and panel-level reliability.
 
 ---
 
